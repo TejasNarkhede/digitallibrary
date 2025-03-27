@@ -1,6 +1,8 @@
 # Digital Library
 The Digital Library Book Management System is a Spring Boot + React (Vite) + MySQL application that allows librarians to efficiently manage books. The system enables adding, updating, searching, and removing books while maintaining their availability status.
 
+![image](https://github.com/user-attachments/assets/a7212c04-5be6-4752-bdd3-04a1a08ab5a5)
+
 Tech Stack
 Backend: Java, Spring Boot, MySQL, Spring Data JPA
 Frontend: React (Vite), Axios, React Router
